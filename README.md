@@ -1,6 +1,6 @@
 ## _Movie Recommender System_
 
-![image](https://user-images.githubusercontent.com/77549255/230737635-1cc110b7-dbae-47f7-9821-b2cacf0d0aa5.png)
+![image](https://github.com/Karrmanbhatia/Movie-Recommender-System/blob/main/recommendations.gif)
 
 > Check out my detailed description of the project in my Medium story. 
 > https://medium.com/@karrmanbhatia29/movie-recommender-system-project-1a17c4d55136
