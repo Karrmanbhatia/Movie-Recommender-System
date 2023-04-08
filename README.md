@@ -1,13 +1,13 @@
 ## _Movie Recommender System_
 
 > Check out my detailed description of the project in my Medium story. 
-> https://medium.com/@karrmanbhatia29/movie-recommender-system-project-1a17c4d55136
+https://medium.com/@karrmanbhatia29/movie-recommender-system-project-1a17c4d55136
 
 
 ![image](https://github.com/Karrmanbhatia/Movie-Recommender-System/blob/main/recommendations.gif)
 
 
-Contents of the project
+## Contents of the project
 1.	What is a Recommender System?
 2.	Types of Recommender Systems
 3.	Project Flow
@@ -17,17 +17,18 @@ Contents of the project
 7.	Creating a website 
 8. 	Deployment
 
-##Steps Taken
+## Steps Taken
 •	Data set will be chosen
 •	Building a model on it
 •	Convert it into a website
 •	deploy it on the server
 
 
-What is a Recommender system?
+## What is a Recommender system?
 When we go out shopping, what is the flow? Let’s say we are shopping for clothes. Let’s say we wish to buy a pair of jeans; we pick one style and ask the shopkeeper to show us styles similar to what we like. In an offline setting, we can call this a recommender system. The salesman knows the product, and he is recommending a particular product. The machine is a salesman in the online environment who recommends the product according to what we browsed.
 Recommender systems are used in various fields nowadays; it is used to suggest a song or a product on an e-commerce website; YouTube, FB, Instagram, and Netflix have recommender system too. 
-Types of Recommender Systems
+
+## Types of Recommender Systems
 Two types: - 
 1.	Content-based
 2.	Collaborative filter-based
@@ -67,6 +68,7 @@ Now, out of 5000, how to know which movie is most similar? We need to find this 
 Observe the tags of movie one and movie 2. Now how much similar are they? This is dependent on how similar their text is. We need to calculate the similarity score between the two. 
  
 We will convert every tag /text of the movie to a vector. Every film is a vector. We will find the closest vectors to recommend a movie.
+
 ### Concept:
 Converting text to vectors is called Text Vectorization.
 The technique used is - Bag of words.
